@@ -40,12 +40,19 @@ Conclusion
 
 Step 1:
 *First of All needs to download above files given 
+
 step 2:
 To compile the program needed requirements to be installed to run program source code 
+
 *Numpy 
+
 *pandas 
+
 *Seaborn 
+
 *Scikit_learn
+
 *Matplatlib 
+
 Step 3:
 Next you need to download dataset that was provided above dataset to be imported in your python program 

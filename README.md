@@ -37,3 +37,15 @@ Obtain earthquake predictions and visualize results.
 Conclusion
        This project aims to contribute to earthquake prediction efforts by developing a Python-based model that considers various factors influencing seismic activity. By following the design thinking outlined above, we intend to create a valuable tool for early earthquake warning and risk assessment.
 
+
+Step 1:
+*First of All needs to download above files given 
+step 2:
+To compile the program needed requirements to be installed to run program source code 
+*Numpy 
+*pandas 
+*Seaborn 
+*Scikit_learn
+*Matplatlib 
+Step 3:
+Next you need to download dataset that was provided above dataset to be imported in your python program 
